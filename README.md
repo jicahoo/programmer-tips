@@ -5,7 +5,7 @@
   * CPU?
   * 网络: TCP/IP
   * IPC: Unix Socket,
-  * Algorgithm
+  * Algorithm
   * Serialization/Deserialization.
 * 并发问题分析
 * Hack的方式解决问题
