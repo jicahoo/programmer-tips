@@ -11,3 +11,4 @@
 * Hack的方式解决问题
 * 分析Log: timeline, tools: grep, less, keywords: exception, can't, fail,caught,
 * 分析dump: core dump, heap dump
+* 字符问题：特殊字符，字符集
