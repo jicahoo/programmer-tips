@@ -18,3 +18,4 @@
 * 分析Log: timeline, tools: grep, less, keywords: exception, can't, fail,caught,
 * 分析dump: core dump, heap dump
 * 字符问题：特殊字符，字符集
+* 各个操作系统（Windows, Linux)掌握各种搜索工具，文件搜索，程序搜索。
