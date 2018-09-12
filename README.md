@@ -22,5 +22,6 @@
 
 ## 常见问题
 * 连不上 (Protocl, IP, Port). SSH, DB Server, Web Server and so on.
- * 网络畅通：ping <IP>
- * 端口开放：telnet IP Port.  Check it on server: netstat -tuanp |grep XXX to make sure BInd Address is open enough.
+    * 网络畅通：ping <IP>
+    * 端口开放：telnet IP Port.  Check it on server: netstat -tuanp |grep XXX to make sure BInd Address is open enough.
+    * 其他？traceroute?
