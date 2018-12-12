@@ -37,3 +37,7 @@
     * 网络畅通：ping <IP>
     * 端口开放：telnet IP Port.  Check it on server: netstat -tuanp |grep XXX to make sure BInd Address is open enough.
     * 其他？traceroute?
+## 安全相关
+### Kerberos
+ * https://codingbee.net/tutorials/rhce/rhce-kerberos
+ * http://www.roguelynn.com/words/explain-like-im-5-kerberos/
