@@ -41,7 +41,14 @@
 * 遇到了HTTP  Client  stuck. read() hang在那
   * HTTP Client是不是有debug log, Server log有没有对应记录
   * 不行, 就需要网络抓包，分析工具。tcpdump.  wireshark? Windows平台?
- 
+
+##  如何提高效率
+* 耗时的问题在哪里？
+   * 网络出问题， 理论+工具+练习
+   * 并发问题， 理论+工具+练习
+   * 安全相关的问题， 理论+工具+练习
+   * 搭环境，脚本话
+
 ## 安全相关
 ### Kerberos
  * https://codingbee.net/tutorials/rhce/rhce-kerberos
