@@ -37,6 +37,7 @@
     * 网络畅通：ping <IP>
     * 端口开放：telnet IP Port.  Check it on server: netstat -tuanp |grep XXX to make sure BInd Address is open enough.
     * 其他？traceroute?
+ 
 * 遇到了HTTP  Client  stuck. read() hang在那
   * HTTP Client是不是有debug log, Server log有没有对应记录
   * 不行, 就需要网络抓包，分析工具。tcpdump.  wireshark? Windows平台?
