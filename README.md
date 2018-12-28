@@ -50,6 +50,9 @@
    * 安全相关的问题， 理论+工具+练习
    * 搭环境，脚本化，scala+script
    * 分析乱七八糟的日志，或者各种形式的信息,HTML, 二进制信息
+       * Chrome页面搜索神器(正则表达式，历史搜索)： Chrome Regex Search： https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn?hl=en-US
+   
+   
    * 性能，快速高效低地处理大数据，需要各种理论知识和算法。
    * 复杂的bug，从各个人的分析中，理出本质，多总结，与相关人沟通想法
    * 影响周围的人，推动问题解决。
