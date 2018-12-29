@@ -48,7 +48,7 @@
        * 频繁地输入同一个用户名和密码，
        * 借助工具纠正错字， Outlook, word自带。
        * 浏览器里面安装插件可以用正则表达式搜索，Chrome Regex Search
-       * 可以快速定位某个打开的网页，
+       * 可以快速定位某个打开的网页: Quick Tabs. very cool.
        * 快速搜索收藏页面：chrome://bookmarks/
        * 机器间同步书签：登录Google账户. 机器间文件传送。
        * 可以快速切换窗口，
