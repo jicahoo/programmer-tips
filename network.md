@@ -17,5 +17,5 @@
    # don't delete the 'COMMIT' line or these nat table rules won't be processed
    COMMIT
   ```
-  * then on node 1, 'ip add route add 10.0.3.0/23 via 10.0.2.5'
-  * Similarly, you have to config node2, you can then access (TCP/UDP) to node 1 from node 2. 
+  * then on node 1, 'ip add route add 10.0.3.0/23 via 10.0.2.5'.  Then you can send udp packet from node 1 to nodde 2 via node3.
+  * Similarly you config node2, you can then access (TCP/UDP) to node 1 from node 2.  And they can ping each other
