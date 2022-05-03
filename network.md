@@ -11,7 +11,8 @@
    # nat Table rules
    *nat
    :POSTROUTING ACCEPT [0:0]
-   # Forward traffic from eth1 through enth0s3 is node3's interface on NATNetwork1(10.0.2.0/24).  It means all source ip in 2.0/24 shoud to to this NATNetwork1
+   # Forward traffic from eth1 through enth0s3 is node3's interface on NATNetwork1(10.0.2.0/24).  
+   # It means all source ip in 2.0/24 shoud to to this NATNetwork1
    -A POSTROUTING -s 10.0.2.0/24 -o eth0s3 -j MASQUERADE
    -A POSTROUTING -s 10.0.3.0/24 -o eth0s8 -j MASQUERADE
    # don't delete the 'COMMIT' line or these nat table rules won't be processed
